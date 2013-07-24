@@ -27,3 +27,9 @@ th {
 	display:inline-block;
 	padding:5px;
  }
+
+ #spotify {
+ 	display:block;
+ 	left:50%;
+ 	margin:auto;
+ }
